@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Ruben-Stenlund-s-workspace-jknnl2.eu-central-1.xata.sh/db/fishtrack",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
