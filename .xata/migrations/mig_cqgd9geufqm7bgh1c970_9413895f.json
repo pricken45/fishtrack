@@ -1,0 +1,11 @@
+{
+  "id": "mig_cqgd9geufqm7bgh1c970",
+  "checksum": "1:9413895f86440f263c1497ddc9030b359c33e8b0539ce853476bbd89dc9ecc7d",
+  "operations": [
+    {
+      "addTable": {
+        "table": "fishes"
+      }
+    }
+  ]
+}

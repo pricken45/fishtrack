@@ -1,0 +1,16 @@
+{
+  "id": "mig_cqgd9veufqm7bgh1c990",
+  "parentID": "mig_cqgd9r6ufqm7bgh1c980",
+  "checksum": "1:cbe618b23b675419a010d74f7bee1d45b8b1c7d41736285e59215e8cedd5e0f1",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "weight",
+          "type": "float"
+        },
+        "table": "fishes"
+      }
+    }
+  ]
+}

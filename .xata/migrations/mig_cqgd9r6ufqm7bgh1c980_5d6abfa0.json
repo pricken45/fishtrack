@@ -1,0 +1,16 @@
+{
+  "id": "mig_cqgd9r6ufqm7bgh1c980",
+  "parentID": "mig_cqgd9geufqm7bgh1c970",
+  "checksum": "1:5d6abfa09f2b7c904f9265094fa078c4eb6c0907c3bf9965d109bc603f09dff2",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "species",
+          "type": "string"
+        },
+        "table": "fishes"
+      }
+    }
+  ]
+}
